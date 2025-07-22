@@ -1,4 +1,4 @@
-<h2 align="left">Hullo! My name is Ghoffret and I'm a Creative Director, from Turkey.</h2>
+<h2 align="center">Hi! My name is Ghoffret and I'm a Creative Director, from Turkey.</h2>
 
 ###
 
@@ -28,14 +28,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="docker logo"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghoffret/Ghoffret/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghoffret/Ghoffret/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ghoffret/Ghoffret/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
